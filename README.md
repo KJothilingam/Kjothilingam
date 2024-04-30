@@ -1,7 +1,8 @@
 ## Hi there 👋 It's me K.Jothilingam
 
 - 🔭 Here's my [portfolio](https://kjothilingam.github.io/Portfolio/)                                                 
-- 🌱 I’m currently learning DSA
+- 🌱 I have Good knowledge on Data Structures and Algorithms (DSA)  And Amazon Web Services (AWS)
+- 💼  Full-Stack Web-Developer
 - 📫 How to reach me :
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/k-jothilingam)
 
